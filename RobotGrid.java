@@ -41,4 +41,9 @@ public class RobotGrid {
 
 
     }
+
+    public int shortestSafeJourney(int a, int b, int x, int y) {
+        // TODO: Add implementation logic here
+        throw new UnsupportedOperationException("Not implemented yet");
+    }
 }
